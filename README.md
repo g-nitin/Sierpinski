@@ -1,1 +1,1 @@
-# SierpinskiCarpet
+# Sierpinski Carpet and Sierpinski Triangle
